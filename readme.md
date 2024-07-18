@@ -12,13 +12,13 @@ This includes:
 
 ### Install
 
-Installation: npm install uk-bank-holidays
+Installation: npm install react-uk-bank-holidays
 
 ### Usage
 
 Import the package into your app:
 
-import { useBankHolidays } from "uk-bank-holidays";
+import { useBankHolidays } from "react-uk-bank-holidays";
 
 Hook options:
 

@@ -1,5 +1,5 @@
 {
-  "name": "uk-bank-holidays",
+  "name": "react-uk-bank-holidays",
   "version": "1.0.0",
   "description": "React hook that returns information on UK bank holidays.",
   "main": "dist/index.js",
