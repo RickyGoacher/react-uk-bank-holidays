@@ -1,0 +1,36 @@
+{
+  "name": "uk-bank-holidays",
+  "version": "1.0.0",
+  "description": "React hook that returns information on UK bank holidays.",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "UK",
+    "Bank",
+    "holidays",
+    "React",
+    "React",
+    "Hook",
+    "Holidays"
+  ],
+  "author": "Ricky Goacher",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18",
+    "typescript": "^5.5.3"
+  },
+  "peerDependencies": {
+    "react": "^18"
+  }
+}
