@@ -22,7 +22,7 @@ import { useBankHolidays } from "react-uk-bank-holidays";
 
 Hook options:
 
-const {loader, error, getBankHolidays} = useBankHolidays(2022, 2026, 'england-and-wales');
+const {getLoader, getError, getBankHolidays} = useBankHolidays(2022, 2026, 'england-and-wales');
 
 ### Params
 
